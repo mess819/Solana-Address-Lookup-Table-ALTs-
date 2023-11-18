@@ -18,7 +18,7 @@ A Solana development environment set up.
 Getting Started
 Clone this repository to your local machine:
 
-git clone https://github.com/bigjoefilms/-Address-Lookup-Tables.git
+git clone https://github.com/mess819/Solana-Address-Lookup-Table-ALTs.git
 Install the required dependencies:
 bash
 
