@@ -27,7 +27,7 @@ Configure your Solana cluster:
 Modify the connection variable to point to your desired Solana cluster.
 
 Run the code:
-bash
+```bash
 
 npm start
 This will execute the code and simulate a Solana transaction.
@@ -45,9 +45,8 @@ Acknowledgments
 Thanks to the Solana community for providing the tools and resources for Solana development.
 For more information and documentation on Solana development, refer to the official Solana documentation.
 
+```
+
 Happy coding! 😊
-
-rust
-
 
 You can paste this code into your project's README.md file, making sure to adjust any placeholders such as "your-username" and "your-solana-alt-project" to match your actual project information.
